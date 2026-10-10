@@ -3,7 +3,7 @@
 
 . Tema: "N8N do Zero ao Especialista".
 
-. Objetivo: Construir um segundo cérebro que ensina N8N do zero ao avançado, utilizando fontes oficiais, renomadas e referências confiáveis, possibilitando que qualquer pessoa sem conhecimento sobre esta ferramenta possa se tornar um especialista em N8N através do notebook.
+. Objetivo: Construir um segundo cérebro que ensine N8N do zero ao avançado, utilizando fontes oficiais, renomadas e referências confiáveis, possibilitando que qualquer pessoa sem conhecimento sobre esta ferramenta possa se tornar um especialista em N8N através do notebook.
 
 . Fontes: 
 1. Documentação Oficial do n8n, fonte primária mantida pela equipe do n8n. Contém guias, tutoriais, nodes, API, segurança, deploy, integrações, AI, MCP, workflows, changelog e tudo que existe oficialmente. 
