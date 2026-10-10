@@ -19,14 +19,14 @@
 11. Curso Completo de n8n — Eli Rigobeli, curso avançado com IA, integrações e automações complexas;
 12. Fontes complementares incluídas a partir da pesquisa e sugestão do Gemini Notebook após a definição de rigorosos critérios.
 * ** Critérios definido para as fontes: 
-  Autoridade: fonte oficial ou criador reconhecido.
-  Profundidade: explica conceitos, não só demonstrações rápidas.
-  Atualização: conteúdo recente (2025–2026).
-  Neutralidade: não tenta vender cursos ou serviços.
-  Verificabilidade: demonstra workflows reais, cita documentação.
-  Abrangência: cobre conceitos, nodes, integrações, deploy, AI, erros comuns.
+* ** Autoridade: fonte oficial ou criador reconhecido.
+* ** Profundidade: explica conceitos, não só demonstrações rápidas.
+* ** Atualização: conteúdo recente (2025–2026).
+* ** Neutralidade: não tenta vender cursos ou serviços.
+* ** Verificabilidade: demonstra workflows reais, cita documentação.
+* ** Abrangência: cobre conceitos, nodes, integrações, deploy, AI, erros comuns.
 
-. Diretriz de comportamento: "Comporte-se como um especialista em N8N. Responda exclusivamente com base nas fontes fornecidas. Explique conceitos, compare abordagens, crie materiais de estudo e cite sempre de qual fonte cada informação foi retirada".
+* **. Diretriz comportamental: "Comporte-se como um especialista em N8N. Responda exclusivamente com base nas fontes fornecidas. Explique conceitos, compare abordagens, crie materiais de estudo e cite sempre de qual fonte cada informação foi retirada".
 
 . Perguntas realizadas: 
 - 1: O que é e a que se propõe o n8n?
