@@ -183,4 +183,4 @@ O nível avançado foca na engenharia necessária para manter automações está
 * **Segurança e Proteção de Webhooks**: Hardening de *endpoints* públicos com *Header Auth*, *Basic Auth*, verificação de assinaturas criptográficas HMAC e uso de proxy reverso (como Nginx) para controle de taxa e autorização por IP[39][40][41][42].
 * **Alta Escalabilidade em Queue Mode**: Arquitetura desacoplada para alto tráfego separando o nó **Main** (UI e Webhooks), **Redis** (fila em memória), **Workers** paralelos e banco **PostgreSQL** com discos persistentes para dados binários[8][43][44][45].
 
-. Link do Notebook: https://notebook.google.com/notebook/d55e09f9-16ad-4e1e-8e40-742891b9d392
+. Link para o Notebook: https://notebook.google.com/notebook/d55e09f9-16ad-4e1e-8e40-742891b9d392
