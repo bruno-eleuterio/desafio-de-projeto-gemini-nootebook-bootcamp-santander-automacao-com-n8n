@@ -31,19 +31,30 @@
 . Perguntas realizadas: 
 - 1: O que é e a que se propõe o n8n?
 - R: O n8n é uma plataforma de automação de fluxos de trabalho (*workflow automation*) licenciada sob o modelo de código justo (*fair-code*) e equipada com recursos nativos de inteligência artificial. Origem do Nome: A palavra n8n é uma abreviação da palavra nodemation (pronunciada *n-eight-n*), nome escolhido por seu fundador, Jan Oberhauser[3]. A nomenclatura une o uso de uma interface em nós (*Node-View*) desenvolvida sobre *Node.js* com o termo automação (*automation*)[3].
-Interface e Flexibilidade: A ferramenta combina a construção visual e intuitiva baseada em blocos (*nodes*) com a possibilidade de inserir código customizado em JavaScript ou Python quando necessário [1][2].
-A proposta funcional do n8n apoia-se em quatro pilares principais:
-A. Integração Universal de Sistemas e APIs
+ Interface e Flexibilidade: A ferramenta combina a construção visual e intuitiva baseada em blocos (*nodes*) com a possibilidade de inserir código customizado em JavaScript ou Python quando necessário [1][2].
+ A proposta funcional do n8n apoia-se em quatro pilares principais:
+ A. Integração Universal de Sistemas e APIs
 O n8n tem como objetivo conectar milhares de aplicativos, serviços em nuvem, bancos de dados, APIs REST e *webhooks* em fluxos de processamento sequenciais (da esquerda para a direita) sem exigir o desenvolvimento de código de integração do zero[2].
-B. Construção e Operacionalização de Agentes de IA
+ B. Construção e Operacionalização de Agentes de IA
 A plataforma propõe-se a transformar automações tradicionais ao integrar nativamente grandes modelos de linguagem (LLMs como OpenAI GPT, Anthropic Claude, Google Gemini, Ollama e Groq) através do *framework* LangChain[2]. Com isso, permite criar **agentes de IA** autônomos capazes de raciocinar, reter histórico de conversa (*memory*), consultar bases de dados privadas (RAG) e acionar ferramentas externas (*tools*)[2].
-C. Soberania de Dados e Flexibilidade de Hospedagem
+ C. Soberania de Dados e Flexibilidade de Hospedagem
 Diferente de alternativas proprietárias fechadas, o n8n propõe a escolha entre o serviço em nuvem (*n8n Cloud*) ou a **auto-hospedagem** (*self-hosted*) em servidores VPS privados ou contêineres Docker[2]. O modelo auto-hospedado garante privacidade total sobre dados sensíveis, conformidade com regulamentações de dados (como LGPD/GDPR) e execuções de automação ilimitadas sem taxas por volume[14].
-D. Eficiência Operacional e Redução de Custos
+ D. Eficiência Operacional e Redução de Custos
 O n8n visa eliminar tarefas manuais e repetitivas em empresas, otimizando o tempo da equipe e acelerando a entrega de processos automatizados de forma rápida e de baixo custo[7].
+
 📚 Mapeamento de Fontes Utilizadas por Seção -
-Definição e Origem do Nome (n8n):GitHub - n8n-io/n8n1more_horiz 1,2 e 3
-Integração Universal e Estrutura de Workflows: Aprenda n8n em 1h: Do Zero ao Agente de IA (Curso Completo) 4 e 5 - Curso N8N Gratuito Para Iniciantes 2026 | Crie Automações com IA 7 / GitHub - n8n-io/n8n2Agentes de IA e Integrações com LangChain: Aprenda n8n em 1h: Do Zero ao Agente de IA (Curso Completo) 4 e 11 / LangChain in n8n | Build 9 e 12 / Nota Salva: Automação com n8n1013GitHub - n8n-io/n8n 2 / Soberania de Dados e Auto-Hospedagem (Self-Hosting vs. Cloud):Aprenda n8n em 1h: Do Zero ao Agente de IA (Curso Completo) 14 / Curso N8N Gratuito Para Iniciantes 2026 | Crie Automações com IA 15 / Self-Hosting n8n: A Production-Ready Architecture on Render 16 / GitHub - n8n-io/n8n2Eficiência e Automação de Processos:Curso GRATUITO de N8N Para Iniciantes [VERSÃO COMPLETA] | Autotic17Curso N8N Gratuito Para Iniciantes 2026 | Crie Automações com IA 7 / n8n Best Practices – 10 Rules for Production-Ready Workflows 18.
+* ** Definição e Origem do Nome (n8n):GitHub - n8n-io/n8n1more_horiz 1,2 e 3
+* ** Integração Universal e Estrutura de Workflows: Aprenda n8n em 1h: Do Zero ao Agente de IA (Curso Completo) 4 e 5 
+* ** Curso N8N Gratuito Para Iniciantes 2026 | Crie Automações com IA 7
+* ** GitHub - n8n-io/n8n2Agentes de IA e Integrações com LangChain: Aprenda n8n em 1h: Do Zero ao Agente de IA (Curso Completo) 4 e 11 
+* ** LangChain in n8n | Build 9 e 12 
+* ** Nota Salva: Automação com n8n1013GitHub - n8n-io/n8n 2 
+* ** Soberania de Dados e Auto-Hospedagem (Self-Hosting vs. Cloud):Aprenda n8n em 1h: Do Zero ao Agente de IA (Curso Completo) 14 
+* ** Curso N8N Gratuito Para Iniciantes 2026 | Crie Automações com IA 15 
+* ** Self-Hosting n8n: A Production-Ready Architecture on Render 16 
+* ** GitHub - n8n-io/n8n2Eficiência e Automação de Processos:Curso GRATUITO de N8N Para Iniciantes [VERSÃO COMPLETA] 
+* ** Autotic17Curso N8N Gratuito Para Iniciantes 2026 | Crie Automações com IA 7 
+* ** n8n Best Practices – 10 Rules for Production-Ready Workflows 18.
 
 - 2: Como um iniciante deve estudar de forma estruturada o n8n?
 - R: Para estudar o n8n de forma estruturada, a jornada de aprendizado recomendada pelas fontes organiza-se em 4 fases progressivas, indo desde a compreensão dos conceitos fundamentais até a arquitetura avançada de produção e agentes de inteligência artificial[1].
