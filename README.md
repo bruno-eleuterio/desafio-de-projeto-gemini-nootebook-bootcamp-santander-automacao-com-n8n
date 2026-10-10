@@ -17,7 +17,7 @@
 9. N8N For Beginners — Autotic (Curso completo), curso estruturado, com fundamentos, APIs, nodes e workflows;
 10. Master N8N in 20 Minutes — Luciana Papini, conteúdo direto, atualizado e técnico;
 11. Curso Completo de N8N — Eli Rigobeli, curso avançado com IA, integrações e automações complexas;
-    Outras fontes complementares incluídas a partir da pesquisa e sugestão do Gemini Notebook após a definição de rigorosos critérios.
+12. Fontes complementares incluídas a partir da pesquisa e sugestão do Gemini Notebook após a definição de rigorosos critérios.
 
 . Critérios definido para as fontes: 
   Autoridade: fonte oficial ou criador reconhecido.
