@@ -30,16 +30,17 @@
 
 . Perguntas realizadas: 
 - 1: O que é e a que se propõe o n8n?
-- R: O n8n é uma plataforma de automação de fluxos de trabalho (*workflow automation*) licenciada sob o modelo de código justo (*fair-code*) e equipada com recursos nativos de inteligência artificial. Origem do Nome: A palavra n8n é uma abreviação da palavra nodemation (pronunciada *n-eight-n*), nome escolhido por seu fundador, Jan Oberhauser[3]. A nomenclatura une o uso de uma interface em nós (*Node-View*) desenvolvida sobre *Node.js* com o termo automação (*automation*)[3].
- Interface e Flexibilidade: A ferramenta combina a construção visual e intuitiva baseada em blocos (*nodes*) com a possibilidade de inserir código customizado em JavaScript ou Python quando necessário [1][2].
- A proposta funcional do n8n apoia-se em quatro pilares principais:
- A. Integração Universal de Sistemas e APIs
-O n8n tem como objetivo conectar milhares de aplicativos, serviços em nuvem, bancos de dados, APIs REST e *webhooks* em fluxos de processamento sequenciais (da esquerda para a direita) sem exigir o desenvolvimento de código de integração do zero[2].
- B. Construção e Operacionalização de Agentes de IA
-A plataforma propõe-se a transformar automações tradicionais ao integrar nativamente grandes modelos de linguagem (LLMs como OpenAI GPT, Anthropic Claude, Google Gemini, Ollama e Groq) através do *framework* LangChain[2]. Com isso, permite criar **agentes de IA** autônomos capazes de raciocinar, reter histórico de conversa (*memory*), consultar bases de dados privadas (RAG) e acionar ferramentas externas (*tools*)[2].
- C. Soberania de Dados e Flexibilidade de Hospedagem
-Diferente de alternativas proprietárias fechadas, o n8n propõe a escolha entre o serviço em nuvem (*n8n Cloud*) ou a **auto-hospedagem** (*self-hosted*) em servidores VPS privados ou contêineres Docker[2]. O modelo auto-hospedado garante privacidade total sobre dados sensíveis, conformidade com regulamentações de dados (como LGPD/GDPR) e execuções de automação ilimitadas sem taxas por volume[14].
- D. Eficiência Operacional e Redução de Custos
+- R: * ** O n8n é uma plataforma de automação de fluxos de trabalho (*workflow automation*) licenciada sob o modelo de código justo (*fair-code*) e equipada com recursos nativos de inteligência artificial. Origem do Nome: A palavra n8n é uma abreviação da palavra nodemation (pronunciada *n-eight-n*), nome escolhido por seu fundador, Jan Oberhauser[3].
+ * ** A nomenclatura une o uso de uma interface em nós (*Node-View*) desenvolvida sobre *Node.js* com o termo automação (*automation*)[3].
+ * ** Interface e Flexibilidade: A ferramenta combina a construção visual e intuitiva baseada em blocos (*nodes*) com a possibilidade de inserir código customizado em JavaScript ou Python quando necessário [1][2].
+ * ** A proposta funcional do n8n apoia-se em quatro pilares principais:
+ * ** A. Integração Universal de Sistemas e APIs
+* ** O n8n tem como objetivo conectar milhares de aplicativos, serviços em nuvem, bancos de dados, APIs REST e *webhooks* em fluxos de processamento sequenciais (da esquerda para a direita) sem exigir o desenvolvimento de código de integração do zero[2].
+ * ** B. Construção e Operacionalização de Agentes de IA:
+* ** A plataforma propõe-se a transformar automações tradicionais ao integrar nativamente grandes modelos de linguagem (LLMs como OpenAI GPT, Anthropic Claude, Google Gemini, Ollama e Groq) através do *framework* LangChain[2]. Com isso, permite criar **agentes de IA** autônomos capazes de raciocinar, reter histórico de conversa (*memory*), consultar bases de dados privadas (RAG) e acionar ferramentas externas (*tools*)[2].
+* ** C. Soberania de Dados e Flexibilidade de Hospedagem:
+* ** Diferente de alternativas proprietárias fechadas, o n8n propõe a escolha entre o serviço em nuvem (*n8n Cloud*) ou a **auto-hospedagem** (*self-hosted*) em servidores VPS privados ou contêineres Docker[2]. O modelo auto-hospedado garante privacidade total sobre dados sensíveis, conformidade com regulamentações de dados (como LGPD/GDPR) e execuções de automação ilimitadas sem taxas por volume[14].
+* ** D. Eficiência Operacional e Redução de Custos:
 O n8n visa eliminar tarefas manuais e repetitivas em empresas, otimizando o tempo da equipe e acelerando a entrega de processos automatizados de forma rápida e de baixo custo[7].
 
 📚 Mapeamento de Fontes Utilizadas por Seção -
