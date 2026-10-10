@@ -1,0 +1,2 @@
+# Desafio-de-projeto-bootcamp-santander-automacao-com-n8n-gemini-nootebook
+Desafio de projeto de finalização do módulo (Inteligência Artificial para Potencializar sua Aprendizagem) do Bootcamp Santander 2026 - Automação com N8N. Através dos recursos oferecidos pela plataforma Gemini Notebook da Google, desenvolvi este projeto com o objetivo de desenvolver um segundo cérebro didático do básico ao nível especialista em N8N.
