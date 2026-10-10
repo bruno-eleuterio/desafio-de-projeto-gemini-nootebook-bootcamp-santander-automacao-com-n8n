@@ -29,7 +29,7 @@
 * **. Diretriz comportamental: "Comporte-se como um especialista em N8N. Responda exclusivamente com base nas fontes fornecidas. Explique conceitos, compare abordagens, crie materiais de estudo e cite sempre de qual fonte cada informação foi retirada".
 
 . Perguntas realizadas: 
-- 1: O que é e a que se propõe o n8n?
+- Pergunta 1: O que é e a que se propõe o n8n?
 - R: * ** O n8n é uma plataforma de automação de fluxos de trabalho (*workflow automation*) licenciada sob o modelo de código justo (*fair-code*) e equipada com recursos nativos de inteligência artificial. Origem do Nome: A palavra n8n é uma abreviação da palavra nodemation (pronunciada *n-eight-n*), nome escolhido por seu fundador, Jan Oberhauser[3].
  * ** A nomenclatura une o uso de uma interface em nós (*Node-View*) desenvolvida sobre *Node.js* com o termo automação (*automation*)[3].
  * ** Interface e Flexibilidade: A ferramenta combina a construção visual e intuitiva baseada em blocos (*nodes*) com a possibilidade de inserir código customizado em JavaScript ou Python quando necessário [1][2].
@@ -57,7 +57,7 @@ O n8n visa eliminar tarefas manuais e repetitivas em empresas, otimizando o temp
 * ** Autotic17Curso N8N Gratuito Para Iniciantes 2026 | Crie Automações com IA 7 
 * ** n8n Best Practices – 10 Rules for Production-Ready Workflows 18.
 
-- 2: Como um iniciante deve estudar de forma estruturada o n8n?
+- Pergunta 2: Como um iniciante deve estudar de forma estruturada o n8n?
 - R: Para estudar o n8n de forma estruturada, a jornada de aprendizado recomendada pelas fontes organiza-se em 4 fases progressivas, indo desde a compreensão dos conceitos fundamentais até a arquitetura avançada de produção e agentes de inteligência artificial[1].
 ### 🗺️ Trilha de Estudo Estruturada para Iniciantes no n8n
 #### **Módulo 1: Fundamentos e Conceitos Base (O 80/20 do n8n)
@@ -137,7 +137,7 @@ O nível avançado foca na engenharia necessária para manter automações está
   * *Self-Hosting n8n: A Production-Ready Architecture on Render*[60][61][62]
   * *Automação com n8n (Nota Salva)*[44][52][58][59]
 
-- 3 - Quais habilidades devem ser adquiridas pelo estudante após conclusão do estudo completo dos 4 módulos?
+- Pergunta 3 - Quais habilidades devem ser adquiridas pelo estudante após conclusão do estudo completo dos 4 módulos?
 - R: Após a conclusão do estudo dos 4 módulos, o estudante adquire um conjunto abrangente de competências técnicas que o capacita a projetar, construir e manter desde automações simples até arquiteturas de produção de alta complexidade com Inteligência Artificial:
 ### 🎓 Habilidades Adquiridas por Módulo
 #### **Módulo 1: Fundamentos e Conceitos Base**
