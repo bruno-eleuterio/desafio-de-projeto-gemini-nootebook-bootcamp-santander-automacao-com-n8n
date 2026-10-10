@@ -18,7 +18,7 @@
 10. Master n8n in 20 Minutes — Luciana Papini, conteúdo direto, atualizado e técnico;
 11. Curso Completo de n8n — Eli Rigobeli, curso avançado com IA, integrações e automações complexas;
 12. Fontes complementares incluídas a partir da pesquisa e sugestão do Gemini Notebook após a definição de rigorosos critérios.
-. Critérios definido para as fontes: 
+* ** Critérios definido para as fontes: 
   Autoridade: fonte oficial ou criador reconhecido.
   Profundidade: explica conceitos, não só demonstrações rápidas.
   Atualização: conteúdo recente (2025–2026).
