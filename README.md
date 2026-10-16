@@ -2,7 +2,9 @@
 . Desafio de projeto de finalização do módulo Inteligência Artificial para Potencializar sua Aprendizagem do Bootcamp Santander 2026 - Automação com n8n. 
 
 . Tema: "n8n do Zero ao Especialista".
+
 . Link: https://notebook.google.com/notebook/d55e09f9-16ad-4e1e-8e40-742891b9d392
+
 . Objetivo: Construir um segundo cérebro que ensine n8n do zero ao avançado, utilizando fontes oficiais, renomadas e referências confiáveis, possibilitando que qualquer pessoa sem conhecimento sobre esta ferramenta possa se tornar um especialista em n8n através do notebook.
 
 . Fontes: 
